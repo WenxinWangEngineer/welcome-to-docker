@@ -4,9 +4,9 @@
 # process it,
 # and store back to another table.
 from airflow import DAG
-from airflow.operators.python_operator import PythonOperator  # type: ignore
+from airflow.operators.python import PythonOperator
 from datetime import datetime
-import snowflake.connector  # type: ignore
+import snowflake.connector
 
 
 # Define the DAG and its schedule (daily)
