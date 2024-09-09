@@ -105,6 +105,6 @@ dist
 
 
 # Python 3.12 lib files
-docker-kafka/lib/python3.12/site-packages/
+docker-kafka/lib
 docker-kafka/bin
 docker-kafka/include
