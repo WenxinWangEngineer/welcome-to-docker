@@ -1,7 +1,14 @@
-# Date: 09/09/2024 Mon. 
-# Updated by: TIFW 
-# Contents changed: added playground w/ kafka + Docker + python code
-# Purpose: practice for Docker + Kafka + Python + Snowflake real-time processing ETL with data warehouse for dimensional data analytics
+# Date
+09/09/2024 Mon. 
+
+# Updated by
+TIFW 
+
+# Contents changed
+added playground w/ kafka + Docker + python code
+
+# Purpose
+practice for Docker + Kafka + Python + Snowflake real-time processing ETL with data warehouse for dimensional data analytics
 
 # Welcome to Docker
 
