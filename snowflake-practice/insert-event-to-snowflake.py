@@ -18,8 +18,7 @@ def insert_event_to_snowflake(event_data):
         password='YOUR_PASSWORD',
         account='YOUR_ACCOUNT',
         warehouse='YOUR_WAREHOUSE',
-        schema='YOUR_SCHEMA',
-        table='YOUR_TABLE'
+        schema='YOUR_SCHEMA'
     )
 
     cursor = conn.cursor()
