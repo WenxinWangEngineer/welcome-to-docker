@@ -4,11 +4,11 @@
 # Updated by
 TIFW 
 
-# Contents changed
-added playground w/ kafka + Docker + python code
+# Contents changes
+Added playground w/ kafka + Docker + python code
 
 # Purpose
-practice for Docker + Kafka + Python + Snowflake real-time processing ETL with data warehouse for dimensional data analytics
+To practice for Docker + Kafka + Python + Snowflake real-time processing ETL with data warehouse for dimensional data analytics
 
 # Welcome to Docker
 
