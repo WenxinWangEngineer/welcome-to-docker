@@ -3,6 +3,8 @@
 # Create an Airflow Dag that runs a daily task to fetch data from Snowflake,
 # process it,
 # and store back to another table.
+
+
 from airflow import DAG
 from airflow.operators.python import PythonOperator
 from datetime import datetime
